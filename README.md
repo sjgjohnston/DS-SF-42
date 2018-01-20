@@ -46,5 +46,6 @@ Flex topics:
 
 ### Resources
 * [Class wiki](https://github.com/ga-students/DS-SF-42/wiki)
+* [Daily class information](https://github.com/ga-students/DS-SF-42/wiki/Daily-Class-Information), including objectives, and pre-resources
 * [Elements of Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
 * Plenty more to come in this section.
